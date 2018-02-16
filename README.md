@@ -1,15 +1,14 @@
 This is my ~/.vim dir and .vimrc files
 ```
- _    ___         
-| |  / (_)___ ___ 
-| | / / / __ `__ \
-| |/ / / / / / / /
-|___/_/_/ /_/ /_/ 
-
+ _    ___           _____ __   
+| |  / (_)___ ___  / __(_) /__ 
+| | / / / __ `__ \/ /_/ / / _ \
+| |/ / / / / / / / __/ / /  __/
+|___/_/_/ /_/ /_/_/ /_/_/\___/ 
 ```
 # Installation
 Clone the repo:
-`git clone https://`
+`git clone https://github.com/qiwiGremL1n/vimfile ~/.vim`
 
 Grab Vundles:
 `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
