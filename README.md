@@ -13,12 +13,12 @@ Clone the repo:
 Grab Vundles:
 `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
-Install Plugins:
-`vim +PluginInstall +qall`
-
 Make sure vim finds the vimrc file by either symlinking it:
 `ln -s ~/.vim/vimrc ~/.vimrc`
 
 or by sourcing it from your own ~/.vimrc:
 `source ~/.vim/vimrc`
+
+Install Plugins:
+`vim +PluginInstall +qall`
 
